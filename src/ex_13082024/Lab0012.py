@@ -1,0 +1,11 @@
+# Take user input a and b and calculate add, mul, div, sub
+a = int(input("Enter 1 number"))
+b = int(input("Enter 2 number"))
+sum = (a+b)
+mul = (a*b)
+div = (a/b)
+sub = (a-b)
+print(sum)
+print(mul)
+print(div)
+print(sub)
