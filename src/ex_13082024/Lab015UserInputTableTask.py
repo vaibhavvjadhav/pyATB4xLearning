@@ -10,3 +10,5 @@ print(f"{table}*7={table}")
 print(f"{table}*8={table}")
 print(f"{table}*9={table}")
 print(f"{table}*10={table}")
+
+
