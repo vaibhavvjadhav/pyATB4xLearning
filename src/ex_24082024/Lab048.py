@@ -1,13 +1,8 @@
 num1 = int(input("Enter number1 \n"))
 num2 = int(input("Enter number2 \n"))
 
-calculate = input("Please choose add, sub, mul, div \n")
+def sum_of_two_numbers(num1, num2):
+    return num1 + num2
 
-match calculate:
-    case add():
-        def sum(num1,num2):
-            return num1+num2
-
-        result = sum(num1,num2)
-
-    case sub():
+result1 = sum_of_two_numbers(num1,num2)
+print(result1)

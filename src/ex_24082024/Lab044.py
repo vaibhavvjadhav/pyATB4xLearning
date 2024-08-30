@@ -1,8 +1,10 @@
 def greet():
     print("Hello There!")
 
+
 def greet_byname(name):
-    print("Hello,",name)
+    print("Hello,", name)
+
 
 greet()
 greet_byname("Vaibhav")
