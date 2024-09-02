@@ -4,34 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf51906e-0966-4815-aab0-ce015695deaf" name="Changes" comment="All the file upto 24-08-2024 are added">
-      <change afterPath="$PROJECT_DIR$/src/StringPractice/Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringPractice/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024pac/Lab053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024pac/Lab054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024pac/Lab055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024pac/Lab056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024pac/Lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024pac/Lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024pac/Lab059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024pac/Lab060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024pac/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024pac/Lab062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024pac/Lab63.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024pac/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pyATB4xLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyATB4xLearning.iml" afterDir="false" />
+    <list default="true" id="bf51906e-0966-4815-aab0-ce015695deaf" name="Changes" comment="All the file upto 27-08-2024 are added">
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024_decorator_lamda/Lab064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024_decorator_lamda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024_List_tuples_set/Lab066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024_List_tuples_set/Lab067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024_List_tuples_set/Lab068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024_List_tuples_set/Lab069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024_List_tuples_set/Lab070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024_List_tuples_set/Lab071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024_List_tuples_set/Lab072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024_List_tuples_set/Lab073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024_List_tuples_set/Lab074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024_List_tuples_set/Lab075.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab042_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24082024/Lab042_Function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab043.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24082024/Lab043.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab044.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24082024/Lab044.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab045.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24082024/Lab045.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab046.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24082024/Lab046.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab047.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24082024/Lab047.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab048.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24082024/Lab048.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024pac/Lab053.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_27082024_decorator_lamda/Lab053.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024pac/Lab054.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_27082024_decorator_lamda/Lab054.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024pac/Lab055.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_27082024_decorator_lamda/Lab055.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024pac/Lab056.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_27082024_decorator_lamda/Lab056.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024pac/Lab057.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_27082024_decorator_lamda/Lab057.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024pac/Lab058.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_27082024_decorator_lamda/Lab058.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024pac/Lab059.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_27082024_decorator_lamda/Lab059.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024pac/Lab060.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_27082024_decorator_lamda/Lab060.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024pac/Lab061.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_27082024_decorator_lamda/Lab061.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024pac/Lab062.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_27082024_decorator_lamda/Lab062.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024pac/Lab63.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_27082024_decorator_lamda/Lab63.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024pac/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringPractice/Lab065.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,6 +134,18 @@
     "Python.Lab060.executor": "Run",
     "Python.Lab061.executor": "Run",
     "Python.Lab062.executor": "Run",
+    "Python.Lab064.executor": "Run",
+    "Python.Lab065.executor": "Run",
+    "Python.Lab066.executor": "Run",
+    "Python.Lab067.executor": "Run",
+    "Python.Lab068.executor": "Run",
+    "Python.Lab069.executor": "Run",
+    "Python.Lab070.executor": "Run",
+    "Python.Lab071.executor": "Run",
+    "Python.Lab072.executor": "Run",
+    "Python.Lab073.executor": "Run",
+    "Python.Lab074.executor": "Run",
+    "Python.Lab075.executor": "Run",
     "Python.Lab63.executor": "Run",
     "Python.Task7.executor": "Run",
     "Python.XORoperator.executor": "Run",
@@ -275,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724655928963</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="All the file upto 27-08-2024 are added">
+      <option name="closed" value="true" />
+      <created>1725021659720</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725021659720</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -283,6 +301,7 @@
     <MESSAGE value="All the file for 10-08-2024 are added" />
     <MESSAGE value="All the file upto 22-08-2024 are added" />
     <MESSAGE value="All the file upto 24-08-2024 are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the file upto 24-08-2024 are added" />
+    <MESSAGE value="All the file upto 27-08-2024 are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the file upto 27-08-2024 are added" />
   </component>
 </project>
