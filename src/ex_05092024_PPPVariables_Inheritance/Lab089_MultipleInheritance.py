@@ -3,14 +3,14 @@ class Father:
     __password = "private"
     def fathers_money(self):
         return 5
-    def show_password(self):
+    def __show_password(self):
         print(self.__password)
 
     def home(self):
         print("Fathers 2BHK")
 
     def show_everything(self):
-        self.show_password()
+        self.__show_password()
 
 class Mother:
     def mothers_money(self):

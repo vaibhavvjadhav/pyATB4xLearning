@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf51906e-0966-4815-aab0-ce015695deaf" name="Changes" comment="All the file upto 03-09-2024 are added">
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024_PPPVariables_Inheritance/Lab084_PPPVairables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024_PPPVariables_Inheritance/Lab085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024_PPPVariables_Inheritance/Lab086_SingleInheritence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024_PPPVariables_Inheritance/Lab087.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024_PPPVariables_Inheritance/Lab088_MultilevelInheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024_PPPVariables_Inheritance/Lab089_MultipleInheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024_PPPVariables_Inheritance/__init__.py" afterDir="false" />
+    <list default="true" id="bf51906e-0966-4815-aab0-ce015695deaf" name="Changes" comment="All the file upto 05-09-2024 are added">
+      <change afterPath="$PROJECT_DIR$/src/ex_05092024_PPPVariables_Inheritance/Lab090_HieraricalInheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05092024_PPPVariables_Inheritance/Lab091_HybridInheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05092024_PPPVariables_Inheritance/Lab089_MultipleInheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05092024_PPPVariables_Inheritance/Lab089_MultipleInheritance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,6 +139,7 @@
     "Python.Lab087.executor": "Run",
     "Python.Lab088_MultilevelInheritance.executor": "Run",
     "Python.Lab089_MultipleInheritance.executor": "Run",
+    "Python.Lab090_HieraricalInheritance.executor": "Run",
     "Python.Lab63.executor": "Run",
     "Python.Task7.executor": "Run",
     "Python.XORoperator.executor": "Run",
@@ -306,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727111969004</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="All the file upto 05-09-2024 are added">
+      <option name="closed" value="true" />
+      <created>1727197053655</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727197053655</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -317,6 +322,7 @@
     <MESSAGE value="All the file upto 27-08-2024 are added" />
     <MESSAGE value="All the file upto 29-08-2024 are added" />
     <MESSAGE value="All the file upto 03-09-2024 are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the file upto 03-09-2024 are added" />
+    <MESSAGE value="All the file upto 05-09-2024 are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the file upto 05-09-2024 are added" />
   </component>
 </project>
